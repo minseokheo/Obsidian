@@ -1,0 +1,1 @@
+R-CNN -> Fast R-CNN -> Faster R-CNN -> YOLO v1 -> SSD -> YOLO v2 -> FPN -> RetinaNet -> YOLO v3 -> PANet -> EfficientDet -> Swin-T
