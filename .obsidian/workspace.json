@@ -161,9 +161,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "df4bcda187f6ed3a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,11 +194,13 @@
       "obsidian-importer:Open Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
     "5. BoostCamp/Data_Centric/(2강) Data-Centric AI의 중요성.md - 바로 가기.lnk",
     "5. BoostCamp/Data_Centric/(1강) Data-Centric AI의 개요.md - 바로 가기.lnk",
     "5. BoostCamp/Data_Centric/(0강) Overview.md - 바로 가기.lnk",
@@ -226,7 +238,6 @@
     "1.FlettingNotes/Untitled.md",
     "Templates",
     "AttachedFiles",
-    "4. Projects",
-    "3. PermanentsNotes"
+    "4. Projects"
   ]
 }
